@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f54c8b16-818c-49b8-9ee1-b78c423cc719" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../stlmcPy/visualize/web/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/precache-manifest.d142ca5177582345a435aebf63234baf.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../stlmcPy/visualize/web/service-worker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/css/main.fde096b8.chunk.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/css/main.fde096b8.chunk.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/js/2.ad631d4b.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/js/2.ad631d4b.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/js/main.5523d3b7.chunk.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../stlmcPy/visualize/web/static/js/main.5523d3b7.chunk.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/workspace.go" beforeDir="false" afterPath="$PROJECT_DIR$/data/workspace.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="$USER_HOME$/go/go1.13" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1UrqzWcMuHcLg7cGEQAmArXnCc6" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>direct</proxy>
+  </component>
+</project>
