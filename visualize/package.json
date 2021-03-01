@@ -28,7 +28,7 @@
     "react-scripts": "3.0.1",
     "react-select": "^3.0.4",
     "react-tabs": "^3.0.0",
-    "three": "^0.108.0",
+    "three": "^0.125.0",
     "typescript": "3.5.1"
   },
   "homepage": "./",
